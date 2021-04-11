@@ -5,4 +5,5 @@
 3. Find the "Kth" smallest element of an array. code is in "KthSmallest.java".
 4. Palindrome Program in Java.
 5. Fibonacci Series Program using recursion and non recursion.
+6. Factorial series with user input using recursion. 
 
