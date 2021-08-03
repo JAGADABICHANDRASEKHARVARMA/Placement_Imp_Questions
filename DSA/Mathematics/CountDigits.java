@@ -37,3 +37,6 @@ class chandu{
         }
     }
 
+
+// Time complexity = Theta(d)  : where d is the number of digits. 
+// where are checking all the digits so it will take Theta(d) time.
